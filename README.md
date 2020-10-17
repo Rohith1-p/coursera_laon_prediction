@@ -1,1 +1,1 @@
-# coursera_laon_prediction
+# coursera_loan_prediction
